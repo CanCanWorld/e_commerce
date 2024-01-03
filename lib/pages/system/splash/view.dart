@@ -1,4 +1,4 @@
-import 'package:e_commerce/common/service/config.dart';
+import 'package:e_commerce/common/services/config.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
